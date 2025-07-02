@@ -3,7 +3,7 @@ im arshad# 💼 Mohammed Arshad - Portfolio Website
 This is my personal portfolio website built using **HTML**, **CSS**, **Bootstrap**, and **JavaScript** to showcase my skills, projects, education, certifications, and contact information.
 
 Live Demo 🔗  
-[👉 View My Portfolio](https://your-deployment-link.vercel.app/) *(update this link if deployed)*
+[👉 View My Portfolio](https://my-portfolio-git-main-mohammedarshad05s-projects.vercel.app/) 
 
 ---
 
